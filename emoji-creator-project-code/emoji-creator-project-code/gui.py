@@ -4,8 +4,6 @@ import cv2
 from PIL import Image, ImageTk
 import os
 import numpy as np
-
-import numpy as np
 import cv2
 from keras.models import Sequential
 from keras.layers import Dense, Dropout, Flatten
